@@ -1,0 +1,190 @@
+2019/09/21-23:00:21.507041 50b4 RocksDB version: 5.14.2
+2019/09/21-23:00:21.507315 50b4 Git sha rocksdb_build_git_sha:@5089e121166c46956a8a21c8ef967f1896c239de@
+2019/09/21-23:00:21.507375 50b4 Compile date Jul  6 2018
+2019/09/21-23:00:21.507411 50b4 DB SUMMARY
+2019/09/21-23:00:21.508953 50b4 CURRENT file:  CURRENT
+2019/09/21-23:00:21.509044 50b4 IDENTITY file:  IDENTITY
+2019/09/21-23:00:21.509577 50b4 MANIFEST file:  MANIFEST-000017 size: 214 Bytes
+2019/09/21-23:00:21.509656 50b4 SST files in D:\IDEA-WorkSpace\Antihacker\website\crawldb dir, Total Num: 2, files: 000004.sst 000013.sst 
+2019/09/21-23:00:21.509696 50b4 Write Ahead Log file in D:\IDEA-WorkSpace\Antihacker\website\crawldb: 000018.log size: 56408 ; 
+2019/09/21-23:00:21.509736 50b4                         Options.error_if_exists: 0
+2019/09/21-23:00:21.510147 50b4                       Options.create_if_missing: 1
+2019/09/21-23:00:21.510186 50b4                         Options.paranoid_checks: 1
+2019/09/21-23:00:21.510201 50b4                                     Options.env: 0000000000E91BB0
+2019/09/21-23:00:21.510216 50b4                                Options.info_log: 0000000000ECF610
+2019/09/21-23:00:21.510231 50b4                Options.max_file_opening_threads: 16
+2019/09/21-23:00:21.510246 50b4                              Options.statistics: 0000000000000000
+2019/09/21-23:00:21.510261 50b4                               Options.use_fsync: 0
+2019/09/21-23:00:21.510276 50b4                       Options.max_log_file_size: 0
+2019/09/21-23:00:21.510291 50b4                  Options.max_manifest_file_size: 18446744073709551615
+2019/09/21-23:00:21.510306 50b4                   Options.log_file_time_to_roll: 0
+2019/09/21-23:00:21.510321 50b4                       Options.keep_log_file_num: 1000
+2019/09/21-23:00:21.510335 50b4                    Options.recycle_log_file_num: 0
+2019/09/21-23:00:21.510350 50b4                         Options.allow_fallocate: 1
+2019/09/21-23:00:21.510365 50b4                        Options.allow_mmap_reads: 0
+2019/09/21-23:00:21.510380 50b4                       Options.allow_mmap_writes: 0
+2019/09/21-23:00:21.510394 50b4                        Options.use_direct_reads: 0
+2019/09/21-23:00:21.510409 50b4                        Options.use_direct_io_for_flush_and_compaction: 0
+2019/09/21-23:00:21.510424 50b4          Options.create_missing_column_families: 0
+2019/09/21-23:00:21.510439 50b4                              Options.db_log_dir: 
+2019/09/21-23:00:21.510455 50b4                                 Options.wal_dir: D:\IDEA-WorkSpace\Antihacker\website\crawldb
+2019/09/21-23:00:21.510470 50b4                Options.table_cache_numshardbits: 6
+2019/09/21-23:00:21.510485 50b4                      Options.max_subcompactions: 1
+2019/09/21-23:00:21.510499 50b4                  Options.max_background_flushes: -1
+2019/09/21-23:00:21.510515 50b4                         Options.WAL_ttl_seconds: 0
+2019/09/21-23:00:21.510530 50b4                       Options.WAL_size_limit_MB: 0
+2019/09/21-23:00:21.510544 50b4             Options.manifest_preallocation_size: 4194304
+2019/09/21-23:00:21.510559 50b4                     Options.is_fd_close_on_exec: 1
+2019/09/21-23:00:21.510574 50b4                   Options.advise_random_on_open: 1
+2019/09/21-23:00:21.510588 50b4                    Options.db_write_buffer_size: 0
+2019/09/21-23:00:21.510603 50b4                    Options.write_buffer_manager: 000000001C7409C0
+2019/09/21-23:00:21.510618 50b4         Options.access_hint_on_compaction_start: 1
+2019/09/21-23:00:21.510636 50b4  Options.new_table_reader_for_compaction_inputs: 0
+2019/09/21-23:00:21.510651 50b4           Options.random_access_max_buffer_size: 1048576
+2019/09/21-23:00:21.510666 50b4                      Options.use_adaptive_mutex: 0
+2019/09/21-23:00:21.510680 50b4                            Options.rate_limiter: 0000000000000000
+2019/09/21-23:00:21.510695 50b4     Options.sst_file_manager.rate_bytes_per_sec: 0
+2019/09/21-23:00:21.510710 50b4                       Options.wal_recovery_mode: 2
+2019/09/21-23:00:21.510725 50b4                  Options.enable_thread_tracking: 0
+2019/09/21-23:00:21.510822 50b4                  Options.enable_pipelined_write: 0
+2019/09/21-23:00:21.510847 50b4         Options.allow_concurrent_memtable_write: 1
+2019/09/21-23:00:21.510862 50b4      Options.enable_write_thread_adaptive_yield: 1
+2019/09/21-23:00:21.510877 50b4             Options.write_thread_max_yield_usec: 100
+2019/09/21-23:00:21.510892 50b4            Options.write_thread_slow_yield_usec: 3
+2019/09/21-23:00:21.510907 50b4                               Options.row_cache: None
+2019/09/21-23:00:21.510921 50b4                              Options.wal_filter: None
+2019/09/21-23:00:21.510937 50b4             Options.avoid_flush_during_recovery: 0
+2019/09/21-23:00:21.510951 50b4             Options.allow_ingest_behind: 0
+2019/09/21-23:00:21.510966 50b4             Options.preserve_deletes: 0
+2019/09/21-23:00:21.510980 50b4             Options.two_write_queues: 0
+2019/09/21-23:00:21.510995 50b4             Options.manual_wal_flush: 0
+2019/09/21-23:00:21.511009 50b4             Options.max_background_jobs: 2
+2019/09/21-23:00:21.511024 50b4             Options.max_background_compactions: -1
+2019/09/21-23:00:21.511038 50b4             Options.avoid_flush_during_shutdown: 0
+2019/09/21-23:00:21.511053 50b4           Options.writable_file_max_buffer_size: 1048576
+2019/09/21-23:00:21.511068 50b4             Options.delayed_write_rate : 16777216
+2019/09/21-23:00:21.511082 50b4             Options.max_total_wal_size: 0
+2019/09/21-23:00:21.511097 50b4             Options.delete_obsolete_files_period_micros: 21600000000
+2019/09/21-23:00:21.511112 50b4                   Options.stats_dump_period_sec: 600
+2019/09/21-23:00:21.511127 50b4                          Options.max_open_files: -1
+2019/09/21-23:00:21.511142 50b4                          Options.bytes_per_sync: 0
+2019/09/21-23:00:21.511156 50b4                      Options.wal_bytes_per_sync: 0
+2019/09/21-23:00:21.511171 50b4       Options.compaction_readahead_size: 0
+2019/09/21-23:00:21.511186 50b4 Compression algorithms supported:
+2019/09/21-23:00:21.511201 50b4 	kZSTD supported: 0
+2019/09/21-23:00:21.511216 50b4 	kSnappyCompression supported: 0
+2019/09/21-23:00:21.511230 50b4 	kBZip2Compression supported: 0
+2019/09/21-23:00:21.511245 50b4 	kZlibCompression supported: 0
+2019/09/21-23:00:21.511259 50b4 	kLZ4Compression supported: 0
+2019/09/21-23:00:21.511273 50b4 	kXpressCompression supported: 0
+2019/09/21-23:00:21.511287 50b4 	kLZ4HCCompression supported: 0
+2019/09/21-23:00:21.511301 50b4 	kZSTDNotFinalCompression supported: 0
+2019/09/21-23:00:21.511325 50b4 Fast CRC32 supported: Supported on x86
+2019/09/21-23:00:21.517082 50b4 [c:\users\aretter\code\rocksdb\db\version_set.cc:3085] Recovering from manifest file: MANIFEST-000017
+2019/09/21-23:00:21.517967 50b4 [c:\users\aretter\code\rocksdb\db\column_family.cc:475] --------------- Options for column family [default]:
+2019/09/21-23:00:21.518006 50b4               Options.comparator: leveldb.BytewiseComparator
+2019/09/21-23:00:21.518021 50b4           Options.merge_operator: None
+2019/09/21-23:00:21.518036 50b4        Options.compaction_filter: None
+2019/09/21-23:00:21.518051 50b4        Options.compaction_filter_factory: None
+2019/09/21-23:00:21.518065 50b4         Options.memtable_factory: SkipListFactory
+2019/09/21-23:00:21.518080 50b4            Options.table_factory: BlockBasedTable
+2019/09/21-23:00:21.518170 50b4            table_factory options:   flush_block_policy_factory: FlushBlockBySizePolicyFactory (000000001C6F0BF0)
+  cache_index_and_filter_blocks: 0
+  cache_index_and_filter_blocks_with_high_priority: 0
+  pin_l0_filter_and_index_blocks_in_cache: 0
+  index_type: 0
+  hash_index_allow_collision: 1
+  checksum: 1
+  no_block_cache: 0
+  block_cache: 000000001C78C630
+  block_cache_name: LRUCache
+  block_cache_options:
+    capacity : 8388608
+    num_shard_bits : 4
+    strict_capacity_limit : 0
+    high_pri_pool_ratio: 0.000
+  block_cache_compressed: 0000000000000000
+  persistent_cache: 0000000000000000
+  block_size: 4096
+  block_size_deviation: 10
+  block_restart_interval: 16
+  index_block_restart_interval: 1
+  metadata_block_size: 4096
+  partition_filters: 0
+  use_delta_encoding: 1
+  filter_policy: nullptr
+  whole_key_filtering: 1
+  verify_compression: 0
+  read_amp_bytes_per_bit: 0
+  format_version: 2
+  enable_index_compression: 1
+  block_align: 0
+2019/09/21-23:00:21.518290 50b4        Options.write_buffer_size: 67108864
+2019/09/21-23:00:21.518312 50b4  Options.max_write_buffer_number: 2
+2019/09/21-23:00:21.518328 50b4          Options.compression: NoCompression
+2019/09/21-23:00:21.518342 50b4                  Options.bottommost_compression: Disabled
+2019/09/21-23:00:21.518357 50b4       Options.prefix_extractor: nullptr
+2019/09/21-23:00:21.518372 50b4   Options.memtable_insert_with_hint_prefix_extractor: nullptr
+2019/09/21-23:00:21.518387 50b4             Options.num_levels: 7
+2019/09/21-23:00:21.518401 50b4        Options.min_write_buffer_number_to_merge: 1
+2019/09/21-23:00:21.518415 50b4     Options.max_write_buffer_number_to_maintain: 0
+2019/09/21-23:00:21.518430 50b4            Options.compression_opts.window_bits: -14
+2019/09/21-23:00:21.518445 50b4                  Options.compression_opts.level: -1
+2019/09/21-23:00:21.518460 50b4               Options.compression_opts.strategy: 0
+2019/09/21-23:00:21.518475 50b4         Options.compression_opts.max_dict_bytes: 0
+2019/09/21-23:00:21.518490 50b4         Options.compression_opts.zstd_max_train_bytes: 0
+2019/09/21-23:00:21.518505 50b4      Options.level0_file_num_compaction_trigger: 4
+2019/09/21-23:00:21.518519 50b4          Options.level0_slowdown_writes_trigger: 20
+2019/09/21-23:00:21.518534 50b4              Options.level0_stop_writes_trigger: 36
+2019/09/21-23:00:21.518549 50b4                   Options.target_file_size_base: 67108864
+2019/09/21-23:00:21.518564 50b4             Options.target_file_size_multiplier: 1
+2019/09/21-23:00:21.518579 50b4                Options.max_bytes_for_level_base: 268435456
+2019/09/21-23:00:21.518593 50b4 Options.level_compaction_dynamic_level_bytes: 0
+2019/09/21-23:00:21.518608 50b4          Options.max_bytes_for_level_multiplier: 10.000000
+2019/09/21-23:00:21.518632 50b4 Options.max_bytes_for_level_multiplier_addtl[0]: 1
+2019/09/21-23:00:21.518647 50b4 Options.max_bytes_for_level_multiplier_addtl[1]: 1
+2019/09/21-23:00:21.518662 50b4 Options.max_bytes_for_level_multiplier_addtl[2]: 1
+2019/09/21-23:00:21.518677 50b4 Options.max_bytes_for_level_multiplier_addtl[3]: 1
+2019/09/21-23:00:21.518692 50b4 Options.max_bytes_for_level_multiplier_addtl[4]: 1
+2019/09/21-23:00:21.518707 50b4 Options.max_bytes_for_level_multiplier_addtl[5]: 1
+2019/09/21-23:00:21.518722 50b4 Options.max_bytes_for_level_multiplier_addtl[6]: 1
+2019/09/21-23:00:21.518738 50b4       Options.max_sequential_skip_in_iterations: 8
+2019/09/21-23:00:21.518753 50b4                    Options.max_compaction_bytes: 1677721600
+2019/09/21-23:00:21.518768 50b4                        Options.arena_block_size: 8388608
+2019/09/21-23:00:21.518783 50b4   Options.soft_pending_compaction_bytes_limit: 68719476736
+2019/09/21-23:00:21.518798 50b4   Options.hard_pending_compaction_bytes_limit: 274877906944
+2019/09/21-23:00:21.518813 50b4       Options.rate_limit_delay_max_milliseconds: 100
+2019/09/21-23:00:21.518827 50b4                Options.disable_auto_compactions: 0
+2019/09/21-23:00:21.518845 50b4                        Options.compaction_style: kCompactionStyleLevel
+2019/09/21-23:00:21.518862 50b4                          Options.compaction_pri: kByCompensatedSize
+2019/09/21-23:00:21.518877 50b4 Options.compaction_options_universal.size_ratio: 1
+2019/09/21-23:00:21.518892 50b4 Options.compaction_options_universal.min_merge_width: 2
+2019/09/21-23:00:21.518907 50b4 Options.compaction_options_universal.max_merge_width: 4294967295
+2019/09/21-23:00:21.518922 50b4 Options.compaction_options_universal.max_size_amplification_percent: 200
+2019/09/21-23:00:21.518938 50b4 Options.compaction_options_universal.compression_size_percent: -1
+2019/09/21-23:00:21.518954 50b4 Options.compaction_options_universal.stop_style: kCompactionStopStyleTotalSize
+2019/09/21-23:00:21.518970 50b4 Options.compaction_options_fifo.max_table_files_size: 1073741824
+2019/09/21-23:00:21.518988 50b4 Options.compaction_options_fifo.allow_compaction: 0
+2019/09/21-23:00:21.519005 50b4 Options.compaction_options_fifo.ttl: 0
+2019/09/21-23:00:21.519020 50b4                   Options.table_properties_collectors: 
+2019/09/21-23:00:21.519035 50b4                   Options.inplace_update_support: 0
+2019/09/21-23:00:21.519050 50b4                 Options.inplace_update_num_locks: 10000
+2019/09/21-23:00:21.519065 50b4               Options.memtable_prefix_bloom_size_ratio: 0.000000
+2019/09/21-23:00:21.519081 50b4   Options.memtable_huge_page_size: 0
+2019/09/21-23:00:21.519095 50b4                           Options.bloom_locality: 0
+2019/09/21-23:00:21.519110 50b4                    Options.max_successive_merges: 0
+2019/09/21-23:00:21.519125 50b4                Options.optimize_filters_for_hits: 0
+2019/09/21-23:00:21.519140 50b4                Options.paranoid_file_checks: 0
+2019/09/21-23:00:21.519155 50b4                Options.force_consistency_checks: 0
+2019/09/21-23:00:21.519169 50b4                Options.report_bg_io_stats: 0
+2019/09/21-23:00:21.519184 50b4                               Options.ttl: 0
+2019/09/21-23:00:21.530840 50b4 [c:\users\aretter\code\rocksdb\db\version_set.cc:3361] Recovered from manifest file:D:\IDEA-WorkSpace\Antihacker\website\crawldb/MANIFEST-000017 succeeded,manifest_file_number is 17, next_file_number is 19, last_sequence is 86, log_number is 0,prev_log_number is 0,max_column_family is 0,min_log_number_to_keep is 0
+2019/09/21-23:00:21.530909 50b4 [c:\users\aretter\code\rocksdb\db\version_set.cc:3369] Column family [default] (ID 0), log number is 16
+2019/09/21-23:00:21.534317 50b4 EVENT_LOG_v1 {"time_micros": 1569078021534291, "job": 1, "event": "recovery_started", "log_files": [18]}
+2019/09/21-23:00:21.534367 50b4 [c:\users\aretter\code\rocksdb\db\db_impl_open.cc:551] Recovering log #18 mode 2
+2019/09/21-23:00:21.543085 50b4 EVENT_LOG_v1 {"time_micros": 1569078021543025, "cf_name": "default", "job": 1, "event": "table_file_creation", "file_number": 19, "file_size": 41177, "table_properties": {"data_size": 39688, "index_size": 575, "filter_size": 0, "raw_key_size": 21323, "raw_average_key_size": 57, "raw_value_size": 29841, "raw_average_value_size": 79, "num_data_blocks": 10, "num_entries": 374, "filter_policy_name": "", "kDeletedKeys": "0", "kMergeOperands": "0"}}
+2019/09/21-23:00:21.543483 50b4 [c:\users\aretter\code\rocksdb\db\version_set.cc:2847] Creating manifest 20
+2019/09/21-23:00:21.567322 50b4 EVENT_LOG_v1 {"time_micros": 1569078021567301, "job": 1, "event": "recovery_finished"}
+2019/09/21-23:00:21.593191 50b4 [c:\users\aretter\code\rocksdb\db\db_impl_open.cc:1219] DB pointer 000000001C719EA0
+2019/09/21-23:00:25.513081 2ba0 [c:\users\aretter\code\rocksdb\db\db_impl.cc:252] Shutdown: canceling all background work
+2019/09/21-23:00:25.535521 2ba0 [c:\users\aretter\code\rocksdb\db\db_impl.cc:398] Shutdown complete
